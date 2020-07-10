@@ -21,6 +21,7 @@ Aperte F6 e veja o programa compilar e rodar;
 
 Links com cursos gratuitos de C
 https://www.mentebinaria.com.br/treinamentos/programa%C3%A7%C3%A3o-moderna-em-c/#:~:text=C%20%C3%A9%20uma%20linguagem%20de,de%20base%20escritas%20nesta%20linguagem
+http://www.telecom.uff.br/~marcos/protocolos/www.cic.unb.br/docentes/jacobi/Extensao/ListaExerc.pdf
 https://onedaycode.com/events/curso-completo-de-linguagem-c-e-c-iniciante-ao-avancado/
 
 Links com cursos gratuitos de C++
